@@ -1,0 +1,56 @@
+.navbar-toggler-icon{
+    
+    background-color: #82939c  !important;
+    border-radius: 4px ;
+    color: white;
+}
+.navbar{
+    background-color: #263238 !important;
+    border-radius: 4px;
+    padding: 0px 10px;
+
+    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+    margin: 3px;
+    font-size: 15px;
+}
+.navbar-text{
+    margin: 0px 50px;
+}
+.nav-link:hover{
+    background: white;
+    color: rgb(46, 43, 226) !important;
+    border-radius: 10px;
+}
+.navbar-brand{
+    margin: 0px 30px;
+}
+
+
+
+.form-control{
+    margin: 1px;
+    padding: 4px;
+    outline: none !important;
+}
+label{
+    margin: 7px;
+    padding: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #263238  !important;
+}
+body{
+    background-color:white;
+
+}
+.container{
+    background-color:#eceff1;
+    border-radius: 4px;
+
+}
+
+
